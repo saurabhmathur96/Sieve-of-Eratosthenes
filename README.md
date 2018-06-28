@@ -5,7 +5,7 @@ A program that generates prime numbers upto n.
 
 It is an implementation of the Sieve of Eratosthenes in C.
 
-###Usage
+### Usage
 ```
 prime [n] [filename]
 ```
